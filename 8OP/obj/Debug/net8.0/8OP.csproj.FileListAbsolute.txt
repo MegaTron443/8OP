@@ -1,0 +1,15 @@
+/home/andriy/Labki/8OPFULL/8OP/bin/Debug/net8.0/8OP
+/home/andriy/Labki/8OPFULL/8OP/bin/Debug/net8.0/8OP.deps.json
+/home/andriy/Labki/8OPFULL/8OP/bin/Debug/net8.0/8OP.runtimeconfig.json
+/home/andriy/Labki/8OPFULL/8OP/bin/Debug/net8.0/8OP.dll
+/home/andriy/Labki/8OPFULL/8OP/bin/Debug/net8.0/8OP.pdb
+/home/andriy/Labki/8OPFULL/8OP/obj/Debug/net8.0/8OP.GeneratedMSBuildEditorConfig.editorconfig
+/home/andriy/Labki/8OPFULL/8OP/obj/Debug/net8.0/8OP.AssemblyInfoInputs.cache
+/home/andriy/Labki/8OPFULL/8OP/obj/Debug/net8.0/8OP.AssemblyInfo.cs
+/home/andriy/Labki/8OPFULL/8OP/obj/Debug/net8.0/8OP.csproj.CoreCompileInputs.cache
+/home/andriy/Labki/8OPFULL/8OP/obj/Debug/net8.0/8OP.sourcelink.json
+/home/andriy/Labki/8OPFULL/8OP/obj/Debug/net8.0/8OP.dll
+/home/andriy/Labki/8OPFULL/8OP/obj/Debug/net8.0/refint/8OP.dll
+/home/andriy/Labki/8OPFULL/8OP/obj/Debug/net8.0/8OP.pdb
+/home/andriy/Labki/8OPFULL/8OP/obj/Debug/net8.0/8OP.genruntimeconfig.cache
+/home/andriy/Labki/8OPFULL/8OP/obj/Debug/net8.0/ref/8OP.dll
